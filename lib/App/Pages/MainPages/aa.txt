@@ -1,0 +1,9 @@
+Text(
+                          "Procure sua proxima\nmobilia.",
+                          style: TextStyle(
+                            fontFamily: 'code',
+                            fontSize: 25,
+                            color: HexColor("#2A3645"),
+                            fontWeight: FontWeight.w900,
+                          ),
+                        ),
